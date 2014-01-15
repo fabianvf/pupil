@@ -1,3 +1,5 @@
+Modifications that have been made: World camera input is switched, eye camera will no longer use integrated device.
+
 # Pupil
 Open source eye tracking hardware and software platform that started as a thesis project at MIT. Pupil is a project in active, community driven development. The hardware is accessible, hackable, and affordable. The software is open source and written in Python and C when speed is an issue.
 
